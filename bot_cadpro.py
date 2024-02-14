@@ -5,7 +5,6 @@
 
 #Bibliotecas
 import pyautogui
-import pymsgbox
 import time
 
 pyautogui.hotkey('winleft')
